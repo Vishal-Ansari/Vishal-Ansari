@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Hybrib System of sleep,Drunk and yawning detection**
+- 🔭 I’m currently working on **Hybrib System of sleep,Drunk and yawning detection Project**
 
 - 🌱 I’m currently learning **Reactjs**
 
