@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vishal Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working on **Hybrib System of sleep,Drunk and yawning detection**
 
-- 🌱 I’m currently learning **Reactjs , Server side languages**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
 - 🤝 I’m looking for help with **Web related Projects**
 
-- 💬 Ask me about **react, C ,C++ , Stl**
+- 💬 Ask me about **C ,C++ , Stl**
 
-- ⚡ Fun fact **love to cook food 😊**
+- ⚡ Fun fact **love to cook food , Travel ,Connecting with peoples 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
