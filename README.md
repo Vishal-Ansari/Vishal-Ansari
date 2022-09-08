@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C ,C++ , Stl**
 
-- ⚡ Fun fact **love to cook food , Travel ,Connecting with peoples 😊**
+- ⚡ Fun fact **love to Cook Food , Travel ,Connecting with peoples 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
