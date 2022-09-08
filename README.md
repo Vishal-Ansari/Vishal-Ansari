@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web related Projects**
 
-- 💬 Ask me about **C ,C++ , Stl**
+- 💬 Ask me about ** C ,C++ , STL**
 
 - ⚡ Fun fact **love to Cook Food , Travel ,Connecting with peoples 😊**
 
