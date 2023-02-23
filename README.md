@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vishal Ansari</h1>
+<!-- <h1 align="center">Hi 👋, I'm Vishal Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Hybrib System of sleep,Drunk and yawning detection Project**
 
 - 🌱 I’m currently learning **Reactjs**
 
@@ -11,7 +10,7 @@
 
 - 💬 Ask me about ** C ,C++ , STL**
 
-- ⚡ Fun fact **love to Cook Food , Travel ,Connecting with peoples 😊**
+- ⚡ Fun fact **love to Gain knowledge , Travel ,Connecting with peoples 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-ansari&show_icons=true&locale=en&layout=compact" alt="vishal-ansari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-ansari&show_icons=true&locale=en" alt="vishal-ansari" /></p>
+ -->
